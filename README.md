@@ -155,7 +155,6 @@ Car-Rental-Management-System/
 ## 👨‍💻 Author
 
 **K.M.N.D. Kumarasinghe**  
-Student ID: E1946363  
 Bachelor of Information Technology
 Faculty of Information Technology, University of Moratuwa 🇱🇰
 
