@@ -1,6 +1,6 @@
 # 🚗 Car Rental Management System
 
-
+[![Watch Demo]()]
 
 A desktop-based **Car Rental Management System** built with **C# Windows Forms** and **SQL Server**, developed as a Level 01 ICT Project for the **Bachelor of Information Technology** degree at the **University of Moratuwa**.
 
@@ -51,13 +51,13 @@ This system was built to solve these pain points by centralizing all operations 
 
 ## 📸 Screenshots
 
-| Login Screen | Main Dashboard |
+| Dashboard | Main Dashboard |
 |---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Dashboard](Screenshots/dashboard.png) | ![Main](Screenshots/Main.png) |
 
 | Manage Cars | Manage Customers |
 |---|---|
-| ![Cars](screenshots/cars.png) | ![Customers](screenshots/customers.png) |
+| ![Cars](Screenshots/managecars.png) | ![Customers](Screenshots/customer.png) |
 
 ---
 
