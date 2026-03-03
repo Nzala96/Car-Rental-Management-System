@@ -1,6 +1,6 @@
 # 🚗 Car Rental Management System
 
-[![Watch Demo](Screenshots/demo.png)]([[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/ru5aC7VbWNQ)](https://github.com/user-attachments/assets/ae74cd95-7407-45ca-9fa4-2e08d78ad7ff))
+[![Watch Demo][(Screenshots/demo.png)]([[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/ru5aC7VbWNQ)](https://github.com/user-attachments/assets/ae74cd95-7407-45ca-9fa4-2e08d78ad7ff))](https://github.com/user-attachments/assets/ae74cd95-7407-45ca-9fa4-2e08d78ad7ff)
 
 A desktop-based **Car Rental Management System** built with **C# Windows Forms** and **SQL Server**, developed as a Level 01 ICT Project for the **Bachelor of Information Technology** degree at the **University of Moratuwa**.
 
