@@ -5,8 +5,6 @@ A desktop-based **Car Rental Management System** built with **C# Windows Forms**
 
 This system was designed to digitize and streamline the manual operations of *NDK Cab Service* — a small-scale car rental business in Sri Lanka — replacing paper-based processes with a fast, reliable, and user-friendly solution.
 
-https://github.com/Nzala96/Car-Rental-Management-System/issues/1#issue-4014154781
-
 ---
 
 ## 📋 Table of Contents
@@ -16,7 +14,6 @@ https://github.com/Nzala96/Car-Rental-Management-System/issues/1#issue-401415478
 - [Screenshots](#-screenshots)
 - [Tech Stack](#-tech-stack)
 - [System Requirements](#-system-requirements)
-- [Database Design](#-database-design)
 - [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
 - [Author](#-author)
@@ -86,18 +83,6 @@ This system was built to solve these pain points by centralizing all operations 
 - SQL Server / LocalDB
 
 ---
-
-## 🗄 Database Design
-
-The system uses the following core tables:
-
-```
-UserTbl       → Id, Uname, Upass
-CarTbl        → RegNum, Brand, Model, Available, Price
-CustomerTbl   → CustId, CustName, CustAdd, Phone
-RentTbl       → RentId, carReg, CustName, RentDate, ReturnDate, RentFee
-ReturnedTbl   → ReturnId, CarReg, CustName, RentDate, Delay, Fine
-```
 
 ---
 
