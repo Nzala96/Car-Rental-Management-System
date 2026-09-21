@@ -123,12 +123,6 @@ git clone https://github.com/your-username/Car-Rental-Management-System.git
 ### 4. Build & Run
 - Press `Ctrl + F5` or click **Start** in Visual Studio
 
-### 5. Default Login
-```
-Username: Yazu
-Password: 1234
-```
-
 ---
 
 ## 📁 Project Structure
